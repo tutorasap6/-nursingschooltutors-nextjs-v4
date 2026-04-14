@@ -31,11 +31,11 @@ export default function ClassSubPage({ params }: { params: { slug: string } }) {
   const schema = {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": `Pay Someone to Do My Online Class ${cleanLabel}`,
+    "name": "Pay Someone to Do My Online Class",
     "provider": { "@type": "EducationalOrganization", "name": "NursingSchoolTutors.com" },
-    "description": `Expert online class help for ${cleanLabel} at Chamberlain College of Nursing. Guaranteed A or B.`,
+    "description": "Expert online class help at Chamberlain College of Nursing. Guaranteed A or B.",
     "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "58247", "bestRating": "5" }
-  }
+  };
 
   return (
     <>
