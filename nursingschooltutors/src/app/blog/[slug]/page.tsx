@@ -35,7 +35,7 @@ function getCourseTags(post: { title: string; tags: string[]; slug: string }): s
   // Trending
   const trending = ['NursingSchoolTutors.com','Online Nursing Help','Proctored Exam Help','A or B Guaranteed','AI-Free Nursing Writing','Nursing School 2025','Take My Online Class']
   trending.forEach(t => { if (!existing.includes(t)) existing.push(t) })
-  return [...new Set(existing)].slice(0, 15)
+  return Array.from(new Set(existing)).slice(0, 15)
 }
 
 export default function BlogPostPage({ params }: { params: { slug: string } }) {
