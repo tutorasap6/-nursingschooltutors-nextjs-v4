@@ -1,0 +1,269 @@
+{
+  "courseCode": "NR-507",
+  "courseName": "Pathophysiology",
+  "week": 4,
+  "totalQuestions": 35,
+  "passingScore": 75,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following best describes the pathophysiological mechanism of acute inflammation?",
+      "options": [
+        "Increased vascular permeability with neutrophil and macrophage infiltration",
+        "Chronic lymphocyte activation in response to antigens",
+        "Fibroblast proliferation and collagen deposition",
+        "Apoptosis of all tissue cells in affected area"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Acute inflammation is characterized by transient increase in vascular permeability, neutrophil infiltration within hours, and macrophage recruitment. This is distinct from chronic inflammation which involves lymphocytes and tissue repair mechanisms.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "question": "A patient presents with fever, increased heart rate, and tachypnea. His blood culture is positive for gram-negative bacteria. Which cytokine is primarily responsible for the systemic symptoms?",
+      "options": [
+        "Tumor necrosis factor-alpha (TNF-α)",
+        "Interleukin-4 (IL-4)",
+        "Transforming growth factor-beta (TGF-β)",
+        "Interleukin-10 (IL-10)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "TNF-α is a key pro-inflammatory cytokine released by activated macrophages in response to gram-negative endotoxin. It causes systemic symptoms including fever, increased vascular permeability, and hypotension in severe cases.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 3,
+      "question": "What is the primary consequence of chronic hypoxia at the cellular level?",
+      "options": [
+        "Increased ATP production in mitochondria",
+        "Decreased aerobic metabolism leading to increased lactic acid production",
+        "Increased oxidative phosphorylation",
+        "Enhanced electron transport chain function"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chronic hypoxia impairs aerobic metabolism in mitochondria. Cells shift to anaerobic glycolysis, which produces lactate and leads to metabolic acidosis. This is less efficient than aerobic metabolism.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a characteristic of malignant transformation of cells?",
+      "options": [
+        "Loss of contact inhibition",
+        "Increased apoptosis rate",
+        "Decreased metabolic activity",
+        "Enhanced differentiation signals"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Malignant cells lose contact inhibition, allowing them to grow in multiple layers and form tumors. They also have increased rates of cell division, resistance to apoptosis, and decreased differentiation.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "A 45-year-old male with a history of smoking presents with dyspnea. Chest X-ray shows emphysematous changes in the upper lung lobes. What is the primary pathophysiological mechanism?",
+      "options": [
+        "Loss of elastic recoil due to elastin degradation by neutrophil elastase",
+        "Pulmonary fibrosis with increased elastic tissue",
+        "Increased surfactant production",
+        "Acute bronchial constriction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Emphysema results from destruction of elastic tissue in the lungs. Cigarette smoke activates neutrophils which release elastase, degrading elastin. This leads to loss of elastic recoil and air trapping.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "question": "What is the most common cause of acute tubular necrosis (ATN)?",
+      "options": [
+        "Hypoxia-induced ischemic injury",
+        "Direct toxic injury from medications",
+        "Glomerulonephritis",
+        "Pyelonephritis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ischemia (from shock, severe dehydration, or hypotension) is the most common cause of ATN, accounting for about 50% of cases. It causes death of tubular epithelial cells, especially in the proximal tubule.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is true regarding the pathophysiology of hypertension?",
+      "options": [
+        "Increases in peripheral vascular resistance decrease cardiac output",
+        "Increases in peripheral vascular resistance increase cardiac output",
+        "Decreases in blood volume increase peripheral vascular resistance",
+        "Arterial compliance increases with chronic hypertension"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In hypertension, increased peripheral vascular resistance is the primary mechanism. Over time, increased afterload actually decreases cardiac output. Arterial compliance decreases (arteries become stiffer) with chronic hypertension.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "A patient develops DIC (disseminated intravascular coagulation) secondary to severe sepsis. Which sequence of events occurs?",
+      "options": [
+        "Widespread thrombosis → consumption of clotting factors → bleeding diathesis",
+        "Initial bleeding → clotting factor depletion → thrombosis",
+        "Decreased platelet production → hemorrhage → thrombosis",
+        "Increased fibrinogen levels → immediate coagulopathy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "DIC involves widespread activation of coagulation pathways leading to consumption of platelets and clotting factors. This results in thrombosis in small vessels and simultaneously causes a bleeding diathesis when clotting factors are depleted.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following represents the Starling forces in the lungs?",
+      "options": [
+        "Plasma colloid osmotic pressure vs. interstitial colloid osmotic pressure",
+        "Capillary hydrostatic pressure vs. interstitial hydrostatic pressure",
+        "Both of the above",
+        "Neither of the above"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Starling forces include both the hydrostatic pressure gradient and the colloid osmotic pressure gradient. In pulmonary edema, either elevated capillary hydrostatic pressure or decreased plasma colloid osmotic pressure can cause fluid to move into interstitium.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "question": "A patient with Type 2 diabetes develops insulin resistance. Which of the following best explains the cellular mechanism?",
+      "options": [
+        "Decreased phosphorylation of insulin receptor substrate 1 (IRS-1)",
+        "Increased number of insulin receptors on cell surface",
+        "Enhanced glucose transporters (GLUT4) translocation",
+        "Increased insulin receptor autophosphorylation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In insulin resistance, there is decreased phosphorylation and activation of IRS-1, which is crucial for the intracellular signaling cascade triggered by insulin binding. This results in impaired glucose uptake despite insulin presence.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 11,
+      "question": "Which pathophysiological mechanism is primarily responsible for the development of portal hypertension in cirrhosis?",
+      "options": [
+        "Increased portal vein blood flow",
+        "Increased intrahepatic vascular resistance due to fibrosis and architectural distortion",
+        "Decreased collateral vessel formation",
+        "Impaired hepatic artery perfusion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In cirrhosis, fibrosis and regenerating nodules distort the normal hepatic architecture, increasing intrahepatic vascular resistance. This is the primary mechanism of portal hypertension, not increased flow or impaired perfusion.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 12,
+      "question": "A 60-year-old man with COPD develops cor pulmonale. What is the primary mechanism?",
+      "options": [
+        "Hypoxic pulmonary vasoconstriction leading to pulmonary hypertension and subsequent RV hypertrophy",
+        "Left heart failure leading to pulmonary edema",
+        "Mitral stenosis causing pulmonary venous hypertension",
+        "Myocardial infarction of the right ventricle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In COPD, chronic hypoxia causes pulmonary arteriolar vasoconstriction (hypoxic pulmonary vasoconstriction) leading to pulmonary hypertension. The RV hypertrophies in response to increased afterload, eventually leading to RV heart failure (cor pulmonale).",
+      "difficulty": "medium"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is a true statement about acute versus chronic inflammation?",
+      "options": [
+        "Acute inflammation lasts weeks while chronic inflammation lasts days",
+        "Chronic inflammation involves primarily neutrophil infiltration",
+        "Acute inflammation is mediated primarily by complement and cytokines within hours",
+        "Chronic inflammation leads to ulceration and necrosis more commonly than acute inflammation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Acute inflammation occurs rapidly (minutes to hours) and is mediated by complement, histamine, and cytokines. Chronic inflammation develops gradually and lasts weeks to years, involving lymphocytes, macrophages, and tissue repair.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "question": "A patient with rheumatoid arthritis has elevated inflammatory markers and joint swelling. Which of the following is the primary pathophysiological mechanism?",
+      "options": [
+        "Autoimmune destruction of joint cartilage mediated by immune complexes and T-cell activation",
+        "Age-related degenerative changes",
+        "Mechanical wear and tear on joints",
+        "Viral infection of synovial membrane"
+      ],
+      "correctAnswer": 0,
+      "explanation": "RA is an autoimmune disease where T cells and B cells become activated against self-antigens. Immune complexes form and activate complement, leading to inflammation. TNF-α and IL-6 promote further inflammation and cartilage destruction.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following best describes the mechanism of ischemia-reperfusion injury?",
+      "options": [
+        "Oxygen deprivation alone causes irreversible cell death",
+        "Restoration of blood flow generates reactive oxygen species that damage cells",
+        "Loss of ATP prevents calcium regulation, leading to cell swelling and death",
+        "Both increased ROS and calcium overload contribute to injury after reperfusion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ischemia causes ATP depletion and calcium accumulation. Upon reperfusion, oxygen reintroduction generates ROS, and calcium overload activates proteases and phospholipases. Both mechanisms contribute to irreversible injury called reperfusion injury.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 16,
+      "question": "A patient with acute myocardial infarction develops cardiogenic shock. Which of the following is true?",
+      "options": [
+        "Cardiac output is maintained despite severe coronary stenosis",
+        "Severe reduction in cardiac output leads to inadequate tissue perfusion and end-organ damage",
+        "Compensatory mechanisms restore normal blood pressure indefinitely",
+        "Mortality is negligible with immediate reperfusion therapy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In cardiogenic shock, >40% of left ventricular mass is infarcted, causing severe reduction in cardiac output. This leads to hypotension, poor tissue perfusion, and end-organ failure despite compensatory mechanisms (tachycardia, vasoconstriction).",
+      "difficulty": "medium"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is characteristic of the renal response to chronic metabolic acidosis?",
+      "options": [
+        "Increased reabsorption of HCO3- and increased ammonia (NH3) excretion",
+        "Decreased reabsorption of HCO3- and decreased ammonia excretion",
+        "Increased reabsorption of HCO3- and decreased ammonia excretion",
+        "Decreased reabsorption of HCO3- and increased ammonia excretion"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In chronic metabolic acidosis, the kidney increases HCO3- reabsorption in the proximal tubule and increases ammonia production and excretion to eliminate acid. These adaptations increase regeneration of HCO3-.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 18,
+      "question": "A woman with SLE develops lupus nephritis. Which immune mechanism is primarily responsible?",
+      "options": [
+        "Type I hypersensitivity with immediate mast cell degranulation",
+        "Immune complex deposition and complement activation in glomeruli",
+        "Direct T-cell mediated cytotoxicity of glomerular cells",
+        "IgE-mediated allergic response in kidneys"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SLE involves autoantibodies against nuclear antigens (anti-DNA, anti-histone). These form immune complexes that deposit in glomeruli, activate complement (especially C3), and cause inflammation and glomerulonephritis.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following describes the Frank-Starling mechanism in cardiac physiology?",
+      "options": [
+        "Increased preload decreases myocardial fiber stretch and contractility",
+        "Increased preload (ventricular volume) increases myocardial fiber stretch and contractility up to a point",
+        "Afterload directly determines stroke volume independently of preload",
+        "Heart rate is the primary determinant of cardiac output"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Frank-Starling law states that increased preload (ventricular filling) increases myocardial fiber stretch, which increases the force of contraction and stroke volume up to the optimal point. Beyond this point, further stretch decreases contractility.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 20,
+      "question": "A patient develops acute kidney injury with high urine osmolality and low urine sodium. Which diagnosis is most likely?",
+      "options": [
+        "Prerenal azotemia from volume depletion",
+        "Acute tubular necrosis from renal ischemia",
+        "Chronic kidney disease from diabetes",
+        "Postrenal obstruction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Prerenal azotemia (from hypoperfusion/volume depletion) causes the kidneys to conserve sodium and water, resulting in high urine osmolality and low urine sodium. ATN would show low osmolality and high sodium as tubular damage impairs concentration ability.",
+      "difficulty": "hard"
+    }
+  ]
+}

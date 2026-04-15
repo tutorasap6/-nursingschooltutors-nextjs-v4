@@ -1,0 +1,139 @@
+{
+  "courseCode": "NR-603",
+  "courseName": "Advanced Pathophysiology for Primary Care",
+  "week": 6,
+  "totalQuestions": 38,
+  "passingScore": 75,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A 55-year-old female with migraine headaches is experiencing increased frequency and severity. In the pathophysiology of migraine, what is the primary mechanism?",
+      "options": [
+        "Sustained cerebral vasoconstriction leading to ischemia",
+        "Trigeminovascular activation with release of neuropeptides (CGRP, substance P) causing vasodilation and neurogenic inflammation",
+        "Increased intracranial pressure from cerebrospinal fluid overproduction",
+        "Demyelination of cerebral white matter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Modern understanding of migraine pathophysiology focuses on trigeminovascular activation. Activated trigeminal nerves release vasoactive neuropeptides like CGRP and substance P, causing vasodilation, neurogenic inflammation, and sensitization of pain pathways.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "question": "A 48-year-old male with hypertension and obstructive sleep apnea (OSA) develops atrial fibrillation. What is the mechanistic link between OSA and AFib?",
+      "options": [
+        "Direct compression of the atria by enlarged adenoids",
+        "Repetitive hypoxia leading to atrial remodeling, increased sympathetic activity, and atrial inflammation",
+        "Reduced stroke volume during sleep apnea episodes",
+        "Increased vagal tone during apneic episodes triggering ectopic activity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "OSA causes repetitive hypoxia, hypercapnia, and intrathoracic pressure changes. These lead to atrial remodeling through fibrosis, increased inflammation, autonomic dysfunction (increased sympathetic activity), and shortening of atrial refractory period, all promoting AFib.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following best describes the pathophysiology of diabetic peripheral neuropathy?",
+      "options": [
+        "Direct viral infection of peripheral nerves",
+        "Chronic hyperglycemia leading to sorbitol accumulation, protein glycation, and oxidative stress causing nerve damage",
+        "Autoimmune destruction of myelin-producing cells",
+        "Vitamin B12 deficiency and demyelination"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diabetic neuropathy is primarily caused by hyperglycemia. Excess glucose is metabolized via sorbitol pathway (accumulation causes osmotic damage), undergoes glycation (forming AGEs that damage proteins), and generates oxidative stress leading to nerve fiber loss.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "A 62-year-old man with COPD presents with dyspnea, cyanosis, and peripheral edema. His chest X-ray shows right heart enlargement. Which pathophysiological sequence best explains these findings?",
+      "options": [
+        "Pulmonary fibrosis → decreased lung compliance → increased RV afterload → cor pulmonale",
+        "Chronic alveolar hypoxia → hypoxic pulmonary vasoconstriction → pulmonary hypertension → RV hypertrophy and eventual RV failure",
+        "Left ventricular dysfunction → pulmonary edema → elevated pulmonary pressures",
+        "Left ventricle hypertrophy → decreased RV filling → RV failure"
+      ],
+      "correctAnswer": 1,
+      "explanation": "COPD causes alveolar hypoxia. Hypoxia triggers pulmonary arteriolar vasoconstriction (adaptive response to redirect blood from poorly ventilated areas). Chronic vasoconstriction leads to pulmonary hypertension, RV hypertrophy, and eventually cor pulmonale.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 5,
+      "question": "A 35-year-old female with Crohn's disease develops an extra-intestinal manifestation: erythema nodosum. What is the immunological basis?",
+      "options": [
+        "Direct bacterial invasion of subcutaneous tissue",
+        "Type III hypersensitivity: immune complex deposition in skin and subcutaneous vessels",
+        "Type IV hypersensitivity: T-cell mediated response to bacterial antigens",
+        "Deficiency in complement components C3 and C4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Erythema nodosum in IBD is a Type III hypersensitivity reaction. Immune complexes (antigen-antibody) form and deposit in dermal and subcutaneous blood vessels, activating complement and recruiting inflammatory cells.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 6,
+      "question": "In the context of heart failure, which of the following represents appropriate cardiac remodeling that becomes maladaptive over time?",
+      "options": [
+        "Eccentric hypertrophy with increased cavity diameter is always beneficial",
+        "Initial concentric hypertrophy increases contractility, but prolonged hypertrophy leads to increased stiffness and diastolic dysfunction",
+        "Fibroblast proliferation only occurs with severe dysfunction",
+        "Neurohormonal activation (RAAS, SNS) indefinitely improves cardiac output"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The heart initially adapts to increased workload through hypertrophy and increased contractility. However, prolonged hypertrophy (concentric) increases stiffness, impairs relaxation, and promotes fibrosis. RAAS and SNS activation initially help but cause long-term damage.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 7,
+      "question": "A 70-year-old patient develops autoimmune hemolytic anemia with a positive direct Coombs test. Which mechanism is responsible?",
+      "options": [
+        "IgG autoantibodies against RBC surface antigens leading to complement-mediated lysis",
+        "IgG autoantibodies against RBC surface antigens leading to opsonization and phagocytosis by splenic macrophages",
+        "T-cell mediated destruction of RBC precursors in the bone marrow",
+        "Direct bacterial infection of RBCs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In warm autoimmune hemolytic anemia (most common form), IgG autoantibodies bind RBC surface antigens. These IgG-coated RBCs are recognized by Fc receptors on splenic macrophages and are phagocytosed (extravascular hemolysis). The direct Coombs test is positive due to IgG.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 8,
+      "question": "A 45-year-old man with polycystic kidney disease develops hypertension. Which of the following best explains the mechanism?",
+      "options": [
+        "Increased GFR leads to excessive sodium reabsorption",
+        "Cyst expansion compromises renal tissue, impairing sodium handling and activating RAAS",
+        "Polycystic kidneys produce excessive renin",
+        "Direct endothelial damage unrelated to kidney function"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PKD causes progressive cyst expansion, reducing functional renal tissue. This impairs sodium and fluid handling, activates the RAAS, and increases sympathetic activity. Additionally, direct arterial injury and endothelial dysfunction contribute to hypertension.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 9,
+      "question": "In toxic megacolon complicating IBD, which pathophysiological mechanism leads to the risk of perforation?",
+      "options": [
+        "Increased muscular contractions dilate the colon",
+        "Loss of neural innervation leading to absence of muscular tone and wall atrophy",
+        "Severe transverse colonic dilation with thinning of the wall and loss of motility",
+        "Excessive mucous production causing mechanical obstruction"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Toxic megacolon involves severe colonic dilation (>6 cm transverse) with loss of muscular tone and wall thinning due to severe inflammation. The thinned, dilated wall is at high risk for perforation and bacterial translocation causing sepsis.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 10,
+      "question": "A patient with acute myocardial infarction develops acute mitral regurgitation. What is the likely mechanism?",
+      "options": [
+        "Acute rupture of the papillary muscle due to infarction",
+        "Posterior wall MI causing dysfunction of papillary muscles and ventricular remodeling with valve leaflet malcoaptation",
+        "Aortic root dilation from LV dysfunction",
+        "Rheumatic heart disease exacerbation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Acute MR post-MI commonly occurs from papillary muscle dysfunction (not rupture) due to ischemia, or from ventricular remodeling causing annular dilation and leaflet malcoaptation. Posterior wall infarction more commonly affects papillary muscles.",
+      "difficulty": "hard"
+    }
+  ]
+}
