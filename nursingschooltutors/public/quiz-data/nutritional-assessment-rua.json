@@ -1,0 +1,534 @@
+{
+  "courseCode": "nutritional-assessment-rua",
+  "courseName": "Nutritional Assessment RUA",
+  "questions": [
+    {
+      "question": "Question 1 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 2 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 3 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 4 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 5 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 6 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 7 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 8 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 9 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 10 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 11 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 12 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 13 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 14 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 15 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 16 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 17 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 18 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 19 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 20 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 21 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 22 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 23 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 24 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 25 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 26 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 27 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 28 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 29 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 30 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 31 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 32 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 33 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 34 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 35 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 36 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 37 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 38 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 39 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 40 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 41 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 42 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 43 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 44 about Nutritional Assessment RUA: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    }
+  ]
+}

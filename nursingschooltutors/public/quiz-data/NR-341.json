@@ -1,0 +1,139 @@
+{
+  "courseCode": "NR-341",
+  "courseName": "Complex Adult Health II",
+  "week": 2,
+  "totalQuestions": 40,
+  "passingScore": 75,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A 68-year-old male post-op day 2 from abdominal surgery develops acute shortness of breath, tachycardia (HR 112), and hypoxia (SpO2 88%). What is the most likely complication?",
+      "options": [
+        "Acute myocardial infarction",
+        "Pulmonary embolism from immobility and surgical trauma",
+        "Aspiration pneumonia from improper NPO status",
+        "Anaphylactic reaction to antibiotics"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Post-operative PE is common due to venous stasis from immobility, endothelial injury from surgery, and hypercoagulability post-op. Clinical presentation includes acute dyspnea, tachycardia, hypoxia, and sometimes chest pain.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "question": "A patient with acute MI develops cardiogenic shock with a systolic BP of 70 mmHg and urine output of 0.2 mL/kg/hr. Which intervention should be prioritized?",
+      "options": [
+        "Aggressive IV fluid administration",
+        "Vasopressor support with dobutamine or norepinephrine to improve perfusion",
+        "High-dose ACE inhibitor to reduce afterload",
+        "Diuretics to decrease pulmonary edema"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cardiogenic shock requires improving cardiac contractility and systemic perfusion. Vasopressors like dobutamine (inotropic, vasodilating) or norepinephrine (inotropic, vasoconstricting) are needed. IV fluids may worsen pulmonary edema; diuretics can worsen hypotension.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 3,
+      "question": "In managing a patient with acute decompensated heart failure and pulmonary edema, which diuretic class is most appropriate for rapid symptom relief?",
+      "options": [
+        "Thiazide diuretics (e.g., hydrochlorothiazide)",
+        "Potassium-sparing diuretics (e.g., spironolactone)",
+        "Loop diuretics (e.g., furosemide)",
+        "Osmotic diuretics (e.g., mannitol)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Loop diuretics are the most potent diuretics, inhibiting Na-K-2Cl cotransporter in the thick ascending limb. In acute decompensated HF with pulmonary edema, IV loop diuretics rapidly reduce fluid volume and relieve symptoms.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "A patient recovering from major surgery develops a fever of 39.2°C (102.6°F) on post-op day 3, with elevated WBC and tachycardia. Which post-operative complication is most likely?",
+      "options": [
+        "Surgical site infection",
+        "Malignant hyperthermia (always occurs during surgery)",
+        "Medication allergy",
+        "Normal post-operative response"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Post-op day 3 fever with elevated WBC suggests infection, typically surgical site infection (SSI). SSIs usually manifest 3-5 days post-op with fever, erythema, purulent drainage, and elevated WBC. Malignant hyperthermia occurs during/immediately after surgery.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "A 55-year-old patient on mechanical ventilation develops acute respiratory distress syndrome (ARDS). Which of the following characterizes ARDS?",
+      "options": [
+        "PaO2/FiO2 ratio >300 with bilateral infiltrates",
+        "PaO2/FiO2 ratio <300 with bilateral infiltrates not fully explained by cardiac causes",
+        "Unilateral infiltrate with hypoxic respiratory failure",
+        "Normal chest X-ray with severe hypoxia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Berlin Definition of ARDS requires: 1) Timing (within 1 week of known insult), 2) Bilateral opacities on imaging not fully from effusion/collapse/nodules, 3) Respiratory failure not fully explained by cardiac failure, 4) PaO2/FiO2 <300. Moderate ARDS is 100-200, severe is <100.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 6,
+      "question": "A patient develops deep vein thrombosis (DVT) in the left leg. Which nursing intervention is priority?",
+      "options": [
+        "Immediate leg massage to break up the clot",
+        "Strict bed rest with leg elevation and anticoagulation therapy",
+        "Immediate ambulation to promote circulation",
+        "Application of heat to promote vasodilation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "DVT management prioritizes preventing PE and further thrombosis. Interventions include bed rest, elevation to reduce swelling and venous stasis, and anticoagulation (usually heparin then warfarin). Massage can dislodge thrombus; ambulation and heat can worsen outcome.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "A patient post-operatively develops acute urine retention. Which medication commonly causes this side effect?",
+      "options": [
+        "Metoprolol (beta-blocker)",
+        "Opioids causing decreased detrusor contractility",
+        "Statins",
+        "ACE inhibitors"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Opioids are notorious for causing post-operative urinary retention by decreasing detrusor (bladder muscle) contractility and increasing urethral sphincter tone. This is a known side effect of opioid analgesia commonly used for post-op pain.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "In a patient with COPD exacerbation presenting with respiratory acidosis (pH 7.25, PaCO2 60), what is the immediate priority?",
+      "options": [
+        "Administer sodium bicarbonate IV to correct acidosis",
+        "Improve ventilation with bronchodilators, oxygen, and possibly non-invasive or mechanical ventilation",
+        "Hyperventilate the patient via bag-valve-mask",
+        "Administer acetazolamide to increase CO2 elimination"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Respiratory acidosis in COPD is caused by CO2 retention from inadequate ventilation. Treatment focuses on improving ventilation (not correcting pH directly). Bronchodilators, corticosteroids, oxygen, and possibly BiPAP/intubation are needed. Bicarb and acetazolamide are not appropriate.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 9,
+      "question": "A patient receives IV potassium chloride (KCl) infusion and develops peaked T-waves on ECG. What is the immediate action?",
+      "options": [
+        "Continue current infusion rate; peaked T-waves are expected with K replacement",
+        "STOP infusion; give calcium gluconate for membrane stabilization and insulin with dextrose to shift K into cells",
+        "Increase infusion rate to achieve goal K+ faster",
+        "Switch to oral potassium supplementation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Peaked T-waves are a sign of hyperkalemia (ECG changes: peaked T, widened QRS, prolonged PR, ST depression). This is dangerous and can lead to cardiac arrhythmias. Immediate treatment: stop K+ infusion, give calcium gluconate (cardiac membrane stabilization), insulin + dextrose (K+ shift), consider diuretics or dialysis.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 10,
+      "question": "A 72-year-old female with recent hip fracture develops confusion, agitation, and hallucinations on post-op day 1. What is the most likely diagnosis?",
+      "options": [
+        "Early onset Alzheimer's disease",
+        "Acute delirium from multiple factors (pain, medications, infection, hypoxia, immobility)",
+        "Chronic dementia",
+        "Psychotic disorder"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Post-operative delirium is acute, fluctuating confusion common in elderly post-op patients. Causes include pain, opioids/sedatives, infection, hypoxia, electrolyte imbalance, urinary/fecal retention, and immobility. Distinguishing features: acute onset, fluctuating course, inattention.",
+      "difficulty": "medium"
+    }
+  ]
+}

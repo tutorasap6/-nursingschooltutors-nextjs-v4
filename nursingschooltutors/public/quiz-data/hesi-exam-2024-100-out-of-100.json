@@ -1,0 +1,534 @@
+{
+  "courseCode": "hesi-exam-2024-100-out-of-100",
+  "courseName": "HESI exam 2024 100 out of 100",
+  "questions": [
+    {
+      "question": "Question 1 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 2 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 3 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 4 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 5 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 6 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 7 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 8 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 9 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 10 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 11 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 12 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 13 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 14 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 15 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 16 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 17 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 18 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 19 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 20 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 21 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 22 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 23 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 24 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 25 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 26 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 27 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 28 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 29 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 30 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 31 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 32 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 33 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 34 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 35 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 36 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 37 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 38 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct answer is D because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 39 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 40 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct answer is A because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 41 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 42 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct answer is C because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 43 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Question 44 about HESI  2024 100 out of 100: What is the correct answer?",
+      "options": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct answer is B because... (detailed explanation)",
+      "difficulty": "Medium"
+    }
+  ]
+}
