@@ -3,10 +3,10 @@ import Link from 'next/link'
 import { getPost, getAllPosts } from '@/lib/blog'
 import { notFound } from 'next/navigation'
 import { getQuizForSlug } from '@/data/quizzes'
-import dynamic from 'next/dynamic'
+import dynamic as dynamicImport from 'next/dynamic'
 
 // Load quiz interactively (client-side only)
-const QuizComponent = dynamic(() => import('@/components/ui/QuizComponent'), { ssr: false })
+const QuizComponent = dynamicImport(() => import('@/components/ui/QuizComponent'), { ssr: false })
 
 export const dynamic = 'force-dynamic'
 export const revalidate = 3600
